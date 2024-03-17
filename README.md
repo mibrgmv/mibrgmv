@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mibrgmv&label=Profile%20views&color=0e75b6&style=flat" alt="mibrgmv" /> </p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/shmarik/)
+![Profile Views](https://komarev.com/ghpvc/?username=mibrgmv&color=0e75b6&style=flat)
 
 ---
 
